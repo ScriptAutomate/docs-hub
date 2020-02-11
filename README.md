@@ -6,6 +6,18 @@ The purpose of the Documentation Work Group is to improve the overall quality of
 - Enhancing the real world applicability of Salt by adding tutorials and clear use-case scenarios to the documentation.
 - Providing clear indicators of module maturity and stability in related documentation.
 
+## WORK GROUP CONTRIBUTION GUIDELINES
+Guidelines for contributing to (and communicating with) this work group:
+- You are **not** required to be a work group member to assist in one of its goals.
+  - But you do need to be a member to advocate for solutions.
+  - **Action** is emphasized in this working group, not just planning and deliberation.
+- Please complete any task you’ve agreed to take on.
+  - Don’t over commit to a work group task beyond your means.
+- Ask for help and communicate to avoid developing in a vacuum.
+  - I encourage people to ask for help from other work group members **and** from the salt community at large.
+- Put good faith effort into resolving the issue with the current toolset before requesting to add/replace a tool. 
+  - No one is to add a tool without deliberation and consent
+
 ## WORK GROUP DETAILS AND TOOLS
 ### Meeting details
 Meetings will take place the 3rd Thursday of the month at 12p.m. Mountain Time/1p.m. Central Time. 
@@ -26,18 +38,6 @@ These meetings may occur more frequently if needed. Join by Zoom: https://zoom.u
 - Multi-persons projects
   - Code/tool migration
   - Creating new repositories/application for https://docs.saltstack.com/
-
-## WORK GROUP CONTRIBUTION GUIDELINES
-Guidelines for contributing to (and communicating with) this work group:
-- You are **not** required to be a work group member to assist in one of its goals.
-  - But you do need to be a member to advocate for solutions.
-  - **Action** is emphasized in this working group, not just planning and deliberation.
-- Please complete any task you’ve agreed to take on.
-  - Don’t over commit to a work group task beyond your means.
-- Ask for help and communicate to avoid developing in a vacuum.
-  - I encourage people to ask for help from other work group members **and** from the salt community at large.
-- Put good faith effort into resolving the issue with the current toolset before requesting to add/replace a tool. 
-  - No one is to add a tool without deliberation and consent
 
 ## WHY JOIN THE DOCUMENTATION WORK GROUP?
 ### Improving open source documentation has a big impact
