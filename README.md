@@ -31,16 +31,16 @@ Additional tools will be determined
 
 ### Project structure
 There will be separate categorized tasks:
- Single day tasks
-Documentation page fix/adjustment/404 link error
-Reducing an individual page’s complexity
-Individual long term projects
-Single tutorial on how to do…
-Creating new documentation page/section
-Consolidating pages
-Multi-persons projects
-Code/tool migration
-Creating new repositories/application for https://docs.saltstack.com/
+- Single day tasks
+  - Documentation page fix/adjustment/404 link error
+  - Reducing an individual page’s complexity
+- Individual long term projects
+  - Single tutorial on how to do…
+  - Creating new documentation page/section
+  - Consolidating pages
+- Multi-persons projects
+  - Code/tool migration
+  - Creating new repositories/application for https://docs.saltstack.com/
 
 ## WORK GROUP CONTRIBUTION GUIDELINES
 Guidelines for contributing to (and communicating with) this work group:
