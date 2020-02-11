@@ -1,19 +1,4 @@
 # Documentation Work Group
-
-## CONTRIBUTORS AND SPONSORS
-### Captain
-- Alan Cugler, Terminal Labs
-### Executive Sponsor
-- Tom Hatch, SaltStack CTO
-### SaltStack Team Members
-- Alyssa Rock
-- Ashley Newton
-- Ken Crowell
-### Community Team Members
-This working group needs technical writers and programmers to reach its goals.
-
-
-## WORK GROUP OBJECTIVES AND GOALS
 The purpose of the Documentation Work Group is to improve the overall quality of Salt documentation by:
 - Decreasing the time investment for new users to onboard with Salt.
 - Scaling the docs for users at different skill levels, from beginners to advanced.
