@@ -1,51 +1,51 @@
-# Documentation Work Group
-The purpose of the Documentation Work Group is to improve the overall quality of Salt documentation by:
-- Decreasing the time investment for new users to onboard with Salt.
-- Scaling the docs for users at different skill levels, from beginners to advanced.
-- Optimizing Salt documentation navigation for speed and relevance.
-- Enhancing the real world applicability of Salt by adding tutorials and clear use-case scenarios to the documentation.
-- Providing clear indicators of module maturity and stability in related documentation.
+# Documentation Working Group
+The purpose of the Documentation Working Group is to improve the overall quality of Salt documentation by:
+- Decreasing the time investment for new users to onboard
+- Scaling the docs for various user skill levels, beginning to advanced
+- Optimizing navigation for speed and relevance
+- Enhancing real world applicability by adding tutorials and clear use-case scenarios
+- Providing clear indicators of module maturity and stability in related documentation
 
-## WORK GROUP CONTRIBUTION GUIDELINES
-Guidelines for contributing to (and communicating with) this work group:
-- You are **not** required to be a work group member to assist in one of its goals.
-  - But you do need to be a member to advocate for solutions.
-  - **Action** is emphasized in this working group, not just planning and deliberation.
-- Please complete any task you’ve agreed to take on.
-  - Don’t over commit to a work group task beyond your means.
-- Ask for help and communicate to avoid developing in a vacuum.
-  - I encourage people to ask for help from other work group members **and** from the salt community at large.
-- Put good faith effort into resolving the issue with the current toolset before requesting to add/replace a tool. 
-  - No one is to add a tool without deliberation and consent
+## WORKING GROUP CONTRIBUTION GUIDELINES
+Guidelines for contributing to (and communicating with) this working group:
+- It is **not** required to be a member to assist the group's goal achievement
+  - However, only members may advocate for solutions
+  - **Action** is emphasized throughout the lifecycle and not simply planning and deliberation
+- Please complete task commitments
+  - Do not over commit to task beyond your means
+- Ask for help and communicate to avoid developing in a vacuum
+  - We encourage asking for help from other members **and** from the salt community, at large.
+- Put good faith effort into resolving issues with the current toolset before requesting to add/replace a tool.
+  - No one is to add a tool without deliberation and consent.
 
-## WORK GROUP DETAILS AND TOOLS
+## WORKING GROUP DETAILS AND TOOLS
 ### Meeting details
-Meetings will take place the 3rd Thursday of the month at 12p.m. Mountain Time/1p.m. Central Time. 
-These meetings may occur more frequently if needed. Join by Zoom: https://zoom.us/j/510472192
+Meetings will take place the 3rd Thursday of the month at 12p.m. Mountain Time/1p.m. Central Time
+These meetings may occur more frequently, if needed. Join by Zoom: https://zoom.us/j/255098853
 
 ### Group Tools
 - Slack: **#documentation** channel at saltstack.community.slack.com
-- Additional tools will be determined
+- Additional tools are yet to be determined among the group captain and members
 
 ### Project task structure
-- Single day tasks
-  - Documentation page fix/adjustment/404 link error
-  - Reducing an individual page’s complexity
-- Individual long term projects
-  - Single tutorial on how to do…
-  - Creating new documentation page/section
+- Single day tasks (labeled `SSD` solo single day task)
+  - Page fix/adjustment/404 link error
+  - Reducing a page’s complexity
+- Individual long term projects (labeled `SLT` solo long term task)
+  - How-to documentation
+  - New page or section i.e. new feature
   - Consolidating pages
-- Multi-persons projects
+- Multi-persons projects (labeled multiple tasks)
   - Code/tool migration
   - Creating new repositories/application for https://docs.saltstack.com/
 
-## WHY JOIN THE DOCUMENTATION WORK GROUP?
+## WHY JOIN?
 ### Improving open source documentation has a big impact
 Good documentation helps orient newcomers, improves the project’s overall usability, and ensures that the community continues to grow. Even small contributions make a big difference.
 
 ### Users at any skill level can contribute
-If you’re new to Salt and want to contribute as a community member, the Documentation Work Group is one of the best groups to join because it has a low barrier to entry for contribution. You’ll get more familiar with Salt and what it’s like to contribute while working on a low-stress project that will be appreciated by the entire community.
-If you’re a seasoned user, your expertise can be valuable because you will have a better sense of what users really need to get out of the documentation. All contributions are welcome!
+If you are new to Salt and want to contribute as a community member, the Documentation Working Group is one of the best groups to join because it has a low barrier to entry for contribution. You will get more familiar with Salt and what it is like to contribute while working on a low-stress project appreciated by the entire community.
+If you are a seasoned user, your expertise is valuable because you have a better sense of what users expect when reading software documentation. All contributions are welcome!
 
 ### Documentation makes a difference
-In 2017, GitHub conducted the Open Source Survey, which sampled 5,500 respondents. One of the key takeaways was that “documentation is highly valued, but often overlooked.” The survey found that outdated or confusing documentation was a major problem, affecting 93% of respondents. Yet 60% of contributors rarely or never contribute to documentation. Consider giving back to the community by helping improve the docs.
+In 2017, GitHub conducted the Open Source Survey, sampling 5,500 respondents. One key takeaway was “documentation is highly valued, but often overlooked.” The survey found outdated or confusing documentation to be a major problem, affecting 93% of respondents. Yet 60% of contributors rarely or never contribute to documentation. Consider giving back to the community by helping improve the docs.
