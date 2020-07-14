@@ -1,3 +1,6 @@
+> _This is the SaltStack Documentation Working Group repository. For other working groups,_
+> _checkout the [SaltStack Community](https://github.com/saltstack/community) repository._
+
 # Documentation Working Group
 The purpose of the Documentation Working Group is to improve the overall quality of Salt documentation by:
 - Decreasing the time investment for new users to onboard

@@ -4,6 +4,7 @@
 ### Executive Sponsor
 - Tom Hatch, SaltStack CTO
 ### SaltStack Team Members
+- Derek Ardolf
 - Alyssa Rock
 - Ashley Newton
 - Ken Crowell
