@@ -7,14 +7,17 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Is your docs request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Type of documentation**
+This could be Salt documentation, Salt modules, the Salt Repo. or the Getting Started guide.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Location or format of documentation**
+Insert page URL if applicable.
+
+**Version**
+Salt version: [eg. 3001]
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
