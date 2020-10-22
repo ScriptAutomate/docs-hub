@@ -23,8 +23,8 @@ Guidelines for contributing to (and communicating with) this working group:
 
 ## WORKING GROUP DETAILS AND TOOLS
 ### Meeting details
-Meetings will take place the 3rd Thursday of the month at 12p.m. Mountain Time/1p.m. Central Time
-These meetings may occur more frequently, if needed. Join by Zoom: https://zoom.us/j/255098853
+Meetings will take place every other Thursday at 2p.m. Mountain Time/3p.m. Central Time.
+Check the Salt Community Calendar for the Zoom link.
 
 ### Group Tools
 - Slack: **#documentation** channel at saltstack.community.slack.com
