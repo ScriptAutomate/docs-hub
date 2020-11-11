@@ -1,12 +1,14 @@
 # CONTRIBUTORS AND SPONSORS
+
 ### Captain
-- Alan Cugler, Terminal Labs
-### Executive Sponsor
-- Tom Hatch, SaltStack CTO
-### SaltStack Team Members
+- Derek Ardolf, Salt project at VMware
+
+### Salt Team Members
 - Derek Ardolf
 - Alyssa Rock
-- Ashley Newton
 - Ken Crowell
+- Sage Robins
+
 ### Community Team Members
-This working group needs technical writers and programmers to reach its goals.
+
+This working group needs technical writers and developers to reach its goals.
