@@ -24,7 +24,7 @@ Guidelines for contributing to (and communicating with) this working group:
 ## WORKING GROUP DETAILS AND TOOLS
 ### Meeting details
 Meetings will take place every other Thursday at 2p.m. Mountain Time/3p.m. Central Time.
-Check the [Salt Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=c2FsdHN0YWNrLmNvbV9tZDczYzN1ZmNzMmVxYnNtbW5pa2U0ZW04MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for the Zoom link.
+Check the [Salt Community Calendar](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html) for the Zoom link.
 
 ### Group Tools
 - Slack: **#documentation** channel at saltstack.community.slack.com
