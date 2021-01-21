@@ -24,23 +24,23 @@ Guidelines for contributing to (and communicating with) this working group:
 ## WORKING GROUP DETAILS AND TOOLS
 ### Meeting details
 Meetings will take place every other Thursday at 2p.m. Mountain Time/3p.m. Central Time.
-Check the [Salt Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=c2FsdHN0YWNrLmNvbV9tZDczYzN1ZmNzMmVxYnNtbW5pa2U0ZW04MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for the Zoom link.
+Check the [Salt Community Calendar](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html) ([ICS](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.ics)) for the Zoom link.
 
 ### Group Tools
-- Slack: **#documentation** channel at saltstack.community.slack.com
+- Slack: **#documentation** channel at [Slack](https://saltstackcommunity.slack.com)
 - Additional tools are yet to be determined among the group captain and members
 
 ### Project task structure
-- Single day tasks (labeled `SSD` solo single day task)
+- Single day tasks (labeled [`SSD`](https://github.com/saltstack/docs-hub/labels/SSD%20task) solo single day task)
   - Page fix/adjustment/404 link error
   - Reducing a page’s complexity
-- Individual long term projects (labeled `SLT` solo long term task)
+- Individual long term projects (labeled [`SLT`](https://github.com/saltstack/docs-hub/labels/SLT%20task) solo long term task)
   - How-to documentation
   - New page or section i.e. new feature
   - Consolidating pages
 - Multi-persons projects (labeled multiple tasks)
   - Code/tool migration
-  - Creating new repositories/application for https://docs.saltstack.com/
+  - Creating new repositories/application for [docs.saltproject.io](https://docs.saltproject.io/)
 
 ## WHY JOIN?
 ### Improving open source documentation has a big impact
