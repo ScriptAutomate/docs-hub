@@ -31,10 +31,10 @@ Check the [Salt Community Calendar](https://outlook.office365.com/owa/calendar/1
 - Additional tools are yet to be determined among the group captain and members
 
 ### Project task structure
-- Single day tasks (labeled `SSD` solo single day task)
+- Single day tasks (labeled [`SSD`](https://github.com/saltstack/docs-hub/labels/SSD%20task) solo single day task)
   - Page fix/adjustment/404 link error
   - Reducing a page’s complexity
-- Individual long term projects (labeled `SLT` solo long term task)
+- Individual long term projects (labeled [`SLT`](https://github.com/saltstack/docs-hub/labels/SLT%20task) solo long term task)
   - How-to documentation
   - New page or section i.e. new feature
   - Consolidating pages
