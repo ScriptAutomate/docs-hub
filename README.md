@@ -40,7 +40,7 @@ Check the [Salt Community Calendar](https://outlook.office365.com/owa/calendar/1
   - Consolidating pages
 - Multi-persons projects (labeled multiple tasks)
   - Code/tool migration
-  - Creating new repositories/application for https://docs.saltstack.com/
+  - Creating new repositories/application for [docs.saltproject.io](https://docs.saltproject.io/)
 
 ## WHY JOIN?
 ### Improving open source documentation has a big impact
