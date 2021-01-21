@@ -27,7 +27,7 @@ Meetings will take place every other Thursday at 2p.m. Mountain Time/3p.m. Centr
 Check the [Salt Community Calendar](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.html) ([ICS](https://outlook.office365.com/owa/calendar/105f69bacd4541baa849529aed37eb2d@vmware.com/434ec2155b2b4cce90144c87f0dd03d56626754050155294962/calendar.ics)) for the Zoom link.
 
 ### Group Tools
-- Slack: **#documentation** channel at saltstack.community.slack.com
+- Slack: **#documentation** channel at saltstackcommunity.slack.com
 - Additional tools are yet to be determined among the group captain and members
 
 ### Project task structure
